@@ -17,8 +17,7 @@ jupyter lab
 
 The `notebooks` folder holds the two main notebooks for the jupytercon-2023, namely:
 
-- `tutorial_part_1.ipynb`
-- `tutorial_part_2.ipynb`
+- `notebook_survie.ipynb`
 
 and the ancillary notebook used to generate the dataset used in "part 1", namely:
 
